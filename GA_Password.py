@@ -7,9 +7,9 @@ import string
 
 # Constants
 TARGET_STRING = '4t9eEGuiX'
-POPULATION_SIZE = 500
+POPULATION_SIZE = 100
 MUTATION_RATE = 0.01
-GENERATIONS = 5000
+GENERATIONS = 1000
 min_len = 5
 max_len = 10
 
